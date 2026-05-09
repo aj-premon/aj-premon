@@ -15,7 +15,7 @@
 ### `$ cat about.txt`
 
 ```bash
-  Name     :  Jamin Arfin Premon
+  Name     :  Sumsul Arafin Jamin
   Handle   :  aj-premon
   Uni      :  City University Bangladesh
   Year     :  Final Year — CSE
