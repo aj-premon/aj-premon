@@ -12,7 +12,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### `$ cat about.txt`
+### `About.txt`
 
 ```bash
   Name     :  Sumsul Arafin Jamin
